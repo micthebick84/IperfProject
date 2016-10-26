@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "C:\\AndroidProject\\IperfProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\AndroidProject\\IperfProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 50,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 88,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "C:\\AndroidProject\\IperfProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 88,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 49,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "C:\\AndroidProject\\IperfProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endColumn": 59,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 32,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\AndroidProject\\IperfProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 32,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 56,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "C:\\AndroidProject\\IperfProject\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 56,
+                        "endOffset": 744
+                    }
+                }
+            }
+        ]
+    }
+]

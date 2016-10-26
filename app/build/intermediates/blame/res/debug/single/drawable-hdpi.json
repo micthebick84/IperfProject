@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\AndroidProject\\IperfProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\diskette.png",
+        "source": "C:\\AndroidProject\\IperfProject\\app\\src\\main\\res\\drawable-hdpi\\diskette.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\IperfProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon128.png",
+        "source": "C:\\AndroidProject\\IperfProject\\app\\src\\main\\res\\drawable-hdpi\\icon128.png"
+    },
+    {
+        "merged": "C:\\AndroidProject\\IperfProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon512.png",
+        "source": "C:\\AndroidProject\\IperfProject\\app\\src\\main\\res\\drawable-hdpi\\icon512.png"
+    }
+]
